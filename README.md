@@ -9,3 +9,7 @@ This repo is created for learning Java programming language and to track the pro
 1. Primitive Data Types and Casting
 2. Methods
 
+### Day: 2
+
+1. Challenge involving control flow statements and methods.
+

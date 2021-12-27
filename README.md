@@ -13,3 +13,8 @@ This repo is created for learning Java programming language and to track the pro
 
 1. Challenge involving control flow statements and methods.
 
+### Day: 3
+
+1. Method overloading.
+2. Challenge involving method overloading.
+

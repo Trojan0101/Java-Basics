@@ -28,4 +28,5 @@ This repo is created for learning Java programming language and to track the pro
 2. While Loop
 3. Do_While Loop
 4. Practice challenges involving loops and control flow statements.
+5. Parsing string values.
 

@@ -22,3 +22,7 @@ This repo is created for learning Java programming language and to track the pro
 
 1. Switch Statement.
 
+### Day: 5
+
+1. For Loop
+

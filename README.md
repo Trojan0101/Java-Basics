@@ -25,4 +25,6 @@ This repo is created for learning Java programming language and to track the pro
 ### Day: 5
 
 1. For Loop
+2. While Loop
+3. Do_While Loop
 

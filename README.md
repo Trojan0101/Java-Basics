@@ -30,3 +30,8 @@ This repo is created for learning Java programming language and to track the pro
 4. Practice challenges involving loops and control flow statements.
 5. Parsing string values.
 
+### Day: 6
+
+1. Reading from user input.
+2. Practiced multiple coding problems to get comfortable with loops, if statements, reading from user and conditional statements.
+

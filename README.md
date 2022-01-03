@@ -42,4 +42,5 @@ This repo is created for learning Java programming language and to track the pro
 3. Constructors.
 4. Constructor overloading.
 5. Multiple practice problems involving constructors.
+6. Basics of inheritance.
 

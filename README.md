@@ -35,3 +35,11 @@ This repo is created for learning Java programming language and to track the pro
 1. Reading from user input.
 2. Practiced multiple coding problems to get comfortable with loops, if statements, reading from user and conditional statements.
 
+### Day: 7
+
+1. Classes.
+2. What is encapsulation.
+3. Constructors.
+4. Constructor overloading.
+5. Multiple practice problems involving constructors.
+

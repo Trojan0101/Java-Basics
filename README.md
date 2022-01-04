@@ -44,3 +44,11 @@ This repo is created for learning Java programming language and to track the pro
 5. Multiple practice problems involving constructors.
 6. Basics of inheritance.
 
+### Day: 8
+
+1. Inheritance.
+2. Practice problems involving Inheritance.
+3. Composition.
+4. Composition Vs Inheritance.
+5. Encapsulation.
+

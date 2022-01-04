@@ -1,18 +1,18 @@
 public class Ceiling {
 
     private int height;
-    private int paintedColour;
+    private int paintedColor;
 
-    public Ceiling(int height, int paintedColour) {
+    public Ceiling(int height, int paintedColor) {
         this.height = height;
-        this.paintedColour = paintedColour;
+        this.paintedColor = paintedColor;
     }
 
     public int getHeight() {
         return height;
     }
 
-    public int getPaintedColour() {
-        return paintedColour;
+    public int getPaintedColor() {
+        return paintedColor;
     }
 }

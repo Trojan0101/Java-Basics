@@ -1,12 +1,12 @@
 public class Lamp {
 
     private String style;
-    private boolean isBattery;
+    private boolean battery;
     private int globRating;
 
-    public Lamp(String style, boolean isBattery, int globRating) {
+    public Lamp(String style, boolean battery, int globRating) {
         this.style = style;
-        this.isBattery = isBattery;
+        this.battery = battery;
         this.globRating = globRating;
     }
 
@@ -19,7 +19,7 @@ public class Lamp {
     }
 
     public boolean isBattery() {
-        return isBattery;
+        return battery;
     }
 
     public int getGlobRating() {

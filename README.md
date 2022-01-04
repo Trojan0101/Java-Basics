@@ -51,4 +51,5 @@ This repo is created for learning Java programming language and to track the pro
 3. Composition.
 4. Composition Vs Inheritance.
 5. Encapsulation.
+6. Polymorphism.
 

@@ -53,3 +53,8 @@ This repo is created for learning Java programming language and to track the pro
 5. Encapsulation.
 6. Polymorphism.
 
+### Day: 9
+
+1. Did some practice problems to understand OOP's.
+2. Arrays.
+

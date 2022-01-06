@@ -63,5 +63,5 @@ This repo is created for learning Java programming language and to track the pro
 1. Looping through arrays.
 2. Value types vs reference types.
 
-## Planned to continue in C# language.
+## Continued in C# language.
 

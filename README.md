@@ -60,5 +60,8 @@ This repo is created for learning Java programming language and to track the pro
 
 ### Day: 10
 
-Planned to continue in C#.
+1. Looping through arrays.
+2. Value types vs reference types.
+
+## Planned to continue in C# language.
 

@@ -10,7 +10,7 @@ public class Main {
         int[] sortedArray = sortArray(array);
         System.out.println("*****Sorted Array*****");
         printArray(sortedArray);
-        
+
     }
 
     private static Scanner scanner = new Scanner(System.in);

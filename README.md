@@ -58,3 +58,7 @@ This repo is created for learning Java programming language and to track the pro
 1. Did some practice problems to understand OOP's.
 2. Arrays.
 
+### Day: 10
+
+Planned to continue in C#.
+

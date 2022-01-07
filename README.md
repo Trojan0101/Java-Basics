@@ -63,5 +63,7 @@ This repo is created for learning Java programming language and to track the pro
 1. Looping through arrays.
 2. Value types vs reference types.
 
-## Continued in C# language.
+### Day: 11
+
+1. Practice problems in arrays.
 

@@ -68,3 +68,8 @@ This repo is created for learning Java programming language and to track the pro
 1. Practice problems in arrays.
 2. Array List.
 
+### Day: 12
+
+1. Practice problems in ArrayList.
+2. Autoboxing and Unboxing concepts and practice problems.
+

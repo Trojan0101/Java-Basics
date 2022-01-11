@@ -73,3 +73,8 @@ This repo is created for learning Java programming language and to track the pro
 1. Practice problems in ArrayList.
 2. Autoboxing and Unboxing concepts and practice problems.
 
+### Day: 13
+
+1. Linked List
+2. Practice problem for designing and implementing linked list.
+

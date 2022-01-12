@@ -1,0 +1,35 @@
+Class:
+	Class is a user-defined blueprint or prototype from which objects can be instantiated.
+Objects:
+	The instances that can be instantiated from a particular class are called a objects.
+Reference:
+	The physical address where a particular object is stored in memory is called as reference.
+Static Variable:
+	A static variable acts as common variable to all the instances of a class. If the variable is changed in one instance of a class, the same will be reflected in all the other instances which are created before and after the change. And, a static variable can be directly accessed from a class (i.e, without being instantiated).
+Instance Variable:
+	An instance variable is not common to all the instance of a class. And, an instance variable cannot be accessed directly from a class. It should be accessed from the instance of the class (i.e, object of the class). Instance variables are also called as Member variables.
+Static method:
+	Static methods can be called directly from the class instead of instance. These methods are not dependent on the objects of a class and it's variables. Static methods cannot access instance methods and instance variables directly. It can only access static variables.
+Instance method:
+	Instance methods needs to be called from an instance of a class. Instance methods can access both instance and static methods and variables directly.
+Method overloading:
+	Multiple methods having the same name but different number of parameters and, same or different return types. The method to be run will be calculated according to the method name, return type and number of arguments given while compilation. Method Overloading is called as Compile Time Polymorphism, as the compiler is the one which decides which method is to be run. Both static and instance method's can be overloaded.
+Method overriding:
+	Defining a method in a child class that already exists in the parent class with the same name and same number of parameters.
+	Method overriding is called as Run Time Polymorphism, as the method to be run is decided during runtime. Only instance methods can be overrided. Overriding methods should have the same return type.
+	* Only inherited methods can be overridden.
+	* Constructors, Private methods, and methods that are final cannot be overridded.
+Constructor:
+	* A constructor is a block of code like methods. It is called when an instance of a class is created. When the constructor is called, the memory for the object is allocated in memory.
+	* 2-types --> No-arg constructor, Parameterized constructor.
+	* Constructor overloading can also be done.
+Inheritance:
+	Creating new classes, by building upon existing classes are called as inheritance. This way the new classes can access the attributes and methods of the existing class. The existing class is called as parent class, and the new class will be called as child class.
+Composition:
+	* Composition describes a has-a relationship link. Instead of extending a class and inheriting all the functionalities of a parent class, the class will be used as a datatype of a instance variable in another class. This way, the functionalities can also be inherited.
+	* As Java doesn't support multiple inheritance, the same can be acheived by using composition. We can create multiple instance variables with different datatypes, which in-turn point to different classes in this case.
+Encapsulation:
+	Making the attributes and methods accessible only by the current class is called as encapsulation.
+	
+	
+	

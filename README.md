@@ -82,5 +82,5 @@ This repo is created for learning Java programming language and to track the pro
 
 1. Re-learning concepts: 
     * OOP's.
-    * List, ArrayList and LinkedList collections.
+    * List, ArrayList and LinkedList.
 

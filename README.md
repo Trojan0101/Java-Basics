@@ -81,7 +81,7 @@ This repo is created for learning Java programming language and to track the pro
 ### Day: 14
 
 1. Re-learning concepts: 
-    * OOP's.
+    * OOP's -> Inheritance, Composition, Encapsulation, Polymorphism.
 
 ### Day: 15
 

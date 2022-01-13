@@ -13,7 +13,7 @@ Static method:
 Instance method:
 	Instance methods needs to be called from an instance of a class. Instance methods can access both instance and static methods and variables directly.
 Method overloading:
-	Multiple methods having the same name but different number of parameters and, same or different return types. The method to be run will be calculated according to the method name, return type and number of arguments given while compilation. Method Overloading is called as Compile Time Polymorphism, as the compiler is the one which decides which method is to be run. Both static and instance method's can be overloaded.
+	Multiple methods having the same name but different number of parameters and, same or different return types. The method to be run will be calculated according to the method name, return type and number of arguments given while compilation. Method Overloading is called as Compile Time Polymorphism, as the compiler is the one which decides which method is to be run. Both static and instance method's can be overloaded. 
 Method overriding:
 	Defining a method in a child class that already exists in the parent class with the same name and same number of parameters.
 	Method overriding is called as Run Time Polymorphism, as the method to be run is decided during runtime. Only instance methods can be overrided. Overriding methods should have the same return type.
@@ -30,6 +30,14 @@ Composition:
 	* As Java doesn't support multiple inheritance, the same can be acheived by using composition. We can create multiple instance variables with different datatypes, which in-turn point to different classes in this case.
 Encapsulation:
 	Making the attributes and methods accessible only by the current class is called as encapsulation.
+Polymorphism:
+	The word polymorphism means many forms. The ability of a message to be displayed in more than one form is called as polymorphism.
+		
+	* Compile Time polymorphism
+		It is also known as static polymorphism. This type of polymorphism is achieved by method overloading.
+	* Run Time polymorphism
+		It is also known as Dynamic Method Dispatch. It is a process in which a function call to the overridden method is resolved at Runtime. This type of polymorphism is achieved by Method Overriding
+	
 	
 	
 	

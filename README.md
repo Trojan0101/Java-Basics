@@ -83,3 +83,8 @@ This repo is created for learning Java programming language and to track the pro
 1. Re-learning concepts: 
     * OOP's.
 
+### Day: 15
+
+1. Re-learning concepts:
+   * Arrays.
+

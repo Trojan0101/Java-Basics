@@ -88,3 +88,6 @@ This repo is created for learning Java programming language and to track the pro
 1. Re-learning concepts:
    * Arrays.
 
+### Day: 16
+
+1. Re-learning: Practice problems involving Arrays.

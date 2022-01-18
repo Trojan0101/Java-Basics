@@ -91,3 +91,7 @@ This repo is created for learning Java programming language and to track the pro
 ### Day: 16
 
 1. Re-learning: Practice problems involving Arrays.
+
+### Day: 17
+
+1. Re-learning: Practice problems involving ArrayList.

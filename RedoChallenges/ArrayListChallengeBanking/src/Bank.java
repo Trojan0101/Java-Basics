@@ -25,11 +25,11 @@ public class Bank {
         Branch foundBranchName = findBranch(branchName);
         if (foundBranchName != null) {
             if (foundBranchName.findCustomer(customerName) != null) {
-                System.out.println(customerName + " is present in branch " + branchName);
+                System.out.println(customerName + " is already present in branch " + branchName);
                 return false;
             } else {
                 foundBranchName.newCustomers(customerName, transaction);
-//                System.out.println(customerName + " is registerd in " + branchName + " successfully.");
+                System.out.println(customerName + " : " + transaction + ", is registerd in " + branchName + " successfully.");
                 return true;
             }
         }
@@ -42,7 +42,7 @@ public class Bank {
         if (foundBranchName != null) {
             foundBranchName.addCustomerTransaction(customerName, transaction);
         } else {
-            System.out.println(branchName + " not available.");
+            System.out.println("Not available: " + branchName);
         }
         return false;
     }

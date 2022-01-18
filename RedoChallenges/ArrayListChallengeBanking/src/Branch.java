@@ -20,11 +20,11 @@ public class Branch {
 
     public boolean newCustomers(String customerName, double initialTransaction) {
         if (findCustomer(customerName) != null) {
-            System.out.println(customerName + " is already a customer, and can't be registered as new.");
+//            System.out.println(customerName + " is already a customer, and can't be registered as new.");
             return false;
         } else {
             this.customers.add(new Customer(customerName, initialTransaction));
-            System.out.println(customerName + " with initial transation " + initialTransaction + " is registered.");
+//            System.out.println(customerName + " with initial transation " + initialTransaction + " is registered.");
             return true;
         }
     }
@@ -33,7 +33,7 @@ public class Branch {
         Customer existingCustomer = findCustomer(customerName);
         if (existingCustomer != null) {
             existingCustomer.addTransaction(transaction);
-            System.out.println(existingCustomer.getCustomerName() + " : " + transaction + " : Added");
+            System.out.println("Added transaction: " + existingCustomer.getCustomerName() + " --> " + transaction);
             return true;
         } else {
             System.out.println(customerName + " is not registerd. Execute initial transaction.");

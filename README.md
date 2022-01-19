@@ -95,3 +95,8 @@ This repo is created for learning Java programming language and to track the pro
 ### Day: 17
 
 1. Re-learning: Practice problems involving ArrayList.
+
+### Day: 18
+
+1. Re-learning: Practice problems involving LinkedList.
+2. Learnt about ListIterator.

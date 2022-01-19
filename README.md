@@ -99,4 +99,5 @@ This repo is created for learning Java programming language and to track the pro
 ### Day: 18
 
 1. Re-learning: Practice problems involving LinkedList.
-2. Learnt about ListIterator.
+2. Learnt about ListIterator and practiced with some problems.
+3. Learnt about Interfaces.

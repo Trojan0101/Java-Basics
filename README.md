@@ -101,3 +101,9 @@ This repo is created for learning Java programming language and to track the pro
 1. Re-learning: Practice problems involving LinkedList.
 2. Learnt about ListIterator and practiced with some problems.
 3. Learnt about Interfaces.
+
+### Day: 19
+
+1. Inner Class
+2. Abstract Class
+3. Generics

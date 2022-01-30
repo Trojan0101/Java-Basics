@@ -107,3 +107,7 @@ This repo is created for learning Java programming language and to track the pro
 1. Inner Class
 2. Abstract Class
 3. Generics
+
+### Day: 20
+
+1. Read about scope, access modifiers, final keyword, and packages.

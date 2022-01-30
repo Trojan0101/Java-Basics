@@ -111,3 +111,7 @@ This repo is created for learning Java programming language and to track the pro
 ### Day: 20
 
 1. Read about scope, access modifiers, final keyword, and packages.
+
+### Day: 21
+
+1. Did some exercises for logical thinking.

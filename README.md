@@ -5,7 +5,7 @@ This repo is created for learning the fundamentals of programming, most importan
 - Data Types
 - Loops
 - Control Statements
-- Class
+- Classes
 - Objects
 - Data Abstraction
 - Encapsulation
